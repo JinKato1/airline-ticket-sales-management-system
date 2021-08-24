@@ -1,4 +1,4 @@
-# Java-Air-Ticket-Sales-System-Group-Project
+# airline-ticket-sales-management-system
 
 
 TeamProject-NetBeans
