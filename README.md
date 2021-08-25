@@ -1,5 +1,9 @@
 # Airline Management/Ticket Sales Desktop Application
 
+-Desktop application for reporting/managing airline ticket sales  
+
+-Recording payment, customer information, employee information, etc to mySQL server. 
+
 ## Set Up
 
 The folder includes the Netbeans project called java_system
