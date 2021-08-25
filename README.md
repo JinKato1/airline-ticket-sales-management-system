@@ -1,9 +1,6 @@
-# airline-ticket-sales-management-system
+# Airline Management/Ticket Sales Desktop Application
 
-
-TeamProject-NetBeans
-
-Team 14 project
+## Set Up
 
 The folder includes the Netbeans project called java_system
 
@@ -13,31 +10,3 @@ The folder includes the Netbeans project called java_system
 
 -the DBS connectivity driver called mysql-connector-java-8.0.19.zip (download it and specify this file when netbeans asks to resovle the driver problem /// if netbeans dosent detect the problem you can spesify it manualy by selecting Library folder in the Java_System project and right click/add new Jar file)
 
-Usefull commands:
-
-Creating a new branch to make changes without affecting the main branch:
-
-select a folder
-
-git checkout -b "Branch Name" //without ""
-
-git add .
-
-git commit -m"message"
-
-git push (use the console comand that is suggested)
-
-to delete: git push -d origin "Branch Name"
-
-when making changes:
-
-git add .
-
-git commit -m "Message explaining the changes"
-
-git push
-
-Other usefull commands
-git status
-
-git log
